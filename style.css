@@ -731,7 +731,7 @@ table td:hover {
   /* SECTION-THREE */
   .three {
     position: relative;
-    left: -95px;
+    left: -90px;
     flex-direction: column;
     align-items: center;
     text-align: center;
@@ -829,8 +829,8 @@ table td:hover {
 
   .foot-line {
     position: relative;
-    margin-left: -6px;
-    width: 320px;
+    margin-left: -10px;
+    width: 290px;
     top: -2px;
   }
 
